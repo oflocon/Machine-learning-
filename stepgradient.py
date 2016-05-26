@@ -13,5 +13,3 @@ def stepgradient(curb,curm,pts,lrate):
 #it has a inbuilt runner
 
 
-
-
