@@ -11,3 +11,7 @@ def stepgradient(curb,curm,pts,lrate):
 	
 #we can run the the gif by executing the complete file using numpy
 #it has a inbuilt runner
+
+
+
+

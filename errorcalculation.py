@@ -3,3 +3,5 @@ def computeErrorForLineGivenPoints(b, m, pts):
     for i in range(0, len(pts)):
         tError += (pts[i].y - (m * pts[i].x + b)) ** 2
     return tError / float(len(pts))
+
+	
